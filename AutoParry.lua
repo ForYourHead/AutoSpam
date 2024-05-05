@@ -1,5 +1,4 @@
 -- r4mpage auto parry
-loadstring(game:HttpGet("ht
 loadstring(game:HttpGet("https://paste.gg/p/Sakali/aec1d51dadb945e184717e92f535db52/files/f54a6bd386f342b98eef19df4cb8d6c2/raw"))();
 
 -- big credits to https://scriptblox.com/u/mxthqus for auto spam ty!
